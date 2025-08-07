@@ -36,4 +36,4 @@ This project leverages a client-server architecture using a real-world setup. Th
 
 For a complete breakdown of the project, including step-by-step commands, conceptual screenshots, and a detailed analysis of the findings and recommendations, please see the full report below.
 
-**[➡️ Project Report: Grab Digital Foot-printing & its Countermeasures]((https://docs.google.com/document/d/1FVJA9H-8kwo9ezbDnFpI4MUQDnLKP2kqS-l3hdt2zBQ/edit?usp=sharing))**
+**[➡️ Project Report: https://docs.google.com/document/d/1FVJA9H-8kwo9ezbDnFpI4MUQDnLKP2kqS-l3hdt2zBQ/edit?usp=sharing]((https://docs.google.com/document/d/1FVJA9H-8kwo9ezbDnFpI4MUQDnLKP2kqS-l3hdt2zBQ/edit?usp=sharing))**
